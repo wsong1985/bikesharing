@@ -16,6 +16,8 @@
 
 - **Create visualization(s) to show the top starting locations.**
 
+[link to dashboard](https://public.tableau.com/app/profile/wei.song6513/viz/Module15Challenge_16746579556570/CustomersbyAgebyGender?publish=yes)
+
 ## **Results**
 
 <table>
